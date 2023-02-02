@@ -8,7 +8,7 @@ contract SimpleStorage {
     int256 favoriteInt = -12;
     address favoriteAddress = 0x75e21f2753247574;
     bytes32 favoriteBytes = "horse";
-    bytes64 favoriteByts = "dog";
+    bytes64 favoriteByts = "dos";
 
     
 }
