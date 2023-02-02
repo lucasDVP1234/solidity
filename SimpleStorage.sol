@@ -6,8 +6,8 @@ contract SimpleStorage {
     bool favoriteBooll = false;
     string favoriteString = "String";
     int256 favoriteInt = -5;
-    address favorite Address = 0x757477547574;
-    bytes32 favoiteBytes = "cat";
+    address favoriteAddress = 0x75ddd27547574;
+    bytes32 favoriteBytes = "cat";
     
 }
 
