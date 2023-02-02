@@ -7,7 +7,7 @@ contract SimpleStorage {
     string favoriteString = "String";
     int256 favoriteInt = -5;
     address favorite Address = 0x757477547574;
-    bytes32 favoriteBytes = "cat";
+    bytes32 favoiteBytes = "cat";
     
 }
 
